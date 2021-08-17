@@ -1,4 +1,4 @@
-## Automatizando Trello com node
+## Automatizando Trello com Nodejs
 
 <p align="center"><img src="./cards.gif" alt="gif" /></p>
 
@@ -15,7 +15,7 @@ Assim se pode, desenvolver ferramentas para auxiliar na organização de boards.
 
 
 
-_O programa aqui desenvolvida é um exemplo de como pode ser usada a API do Trello._
+_O programa aqui desenvolvido é um exemplo de como pode ser usada a API do Trello._
 
 **Com essa aplicação é possível:**
 
