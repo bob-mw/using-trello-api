@@ -39,7 +39,7 @@ Sem precisar sair do terminal :smile:
  <img src="https://img.shields.io/badge/-NPM-green" alt="npm">
  </p>
 
-
+<br>
 
 ### Como instalar:
 
@@ -58,7 +58,7 @@ Instale as dependências:
 npm install
 ```
 
-
+<br>
 
 ### Como usar:
 
@@ -72,8 +72,8 @@ token=s69fd87sa98df79a8sd7f9sa8d7f9sa8d7f9s8ad7f9as
 
 Se não sabe sua key e token do trello é possível obter essas informações em http://trello.com/app-key
 
-
-
+<br>
+<br>
 ### Criando um novo Board
 Com sua key e token salvas no arquivo .env, abra o terminal e execute o arquivo `createBoard.js`:
 ```bash
@@ -81,8 +81,8 @@ node createBord.js
 ```
 _Ao executar será pedido o nome do Board a ser criado_
 
-
-
+<br>
+<br>
 
 ###  Visualizar listas do board
 Ao criar um novo board, o trello cria automaticamente três listas: `A fazer`, `Andamento`, `Concluido`
@@ -93,8 +93,8 @@ node getListsOnBoard.js
 ```
 _Ao executado será pedido o ID do Board_
 
-
-
+<br>
+<br>
 
 ### Criando Cards
 
@@ -128,7 +128,8 @@ _Ao executar será pedido o nome do arquivo onde estão as informações do seu 
 
 _Depois será pedido o ID da lista onde que inserir os cards_
 
-
+<br>
+<br>
 
 ### Visualizar cards da lista
 
@@ -140,7 +141,8 @@ node readList.js
 
 _Será pedido a ID da lista_
 
-
+<br>
+<br>
 
 ## Editar card
 
@@ -152,7 +154,8 @@ node updateCard.js
 
 _Será pedido o ID do card que deseja editar, nome e descrição._
 
-
+<br>
+<br>
 
 ### Excluir card
 
@@ -164,7 +167,8 @@ node destroyCard.js
 
 _Será pedido o ID do card que sera excluido_
 
-
+<br>
+<br>
 
 ### Referências
 
